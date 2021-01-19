@@ -2,105 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58c74e4e-b914-4663-9612-e078e066ba1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/da-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/spinning.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_spinning.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/arrows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/client-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/client-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/client-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/client-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/client-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/client-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/client-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/client-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/client-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/img10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/img7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/img8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/img9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fancybox/Descr.WD3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fancybox/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fancybox/fancybox_loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fancybox/fancybox_loading_402x.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fancybox/fancybox_overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fancybox/fancybox_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fancybox/fancybox_sprite_402x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fancybox/jquery.fancybox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fancybox/jquery.fancybox.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-1.8.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.cslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.isotope.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/modernizr-latest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl-carousel/AjaxLoader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl-carousel/grabbing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl-carousel/owl.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl-carousel/owl.transitions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/projectdata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/Profile.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,6 +40,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build" />
       <recent name="$PROJECT_DIR$/images/portfolio" />
     </key>
   </component>
@@ -168,7 +71,9 @@
       <workItem from="1610727870617" duration="473000" />
       <workItem from="1610900543505" duration="15295000" />
       <workItem from="1610927684622" duration="4580000" />
-      <workItem from="1611019830858" duration="409000" />
+      <workItem from="1611019830858" duration="3021000" />
+      <workItem from="1611023573133" duration="14000" />
+      <workItem from="1611023605036" duration="449000" />
     </task>
     <servers />
   </component>
