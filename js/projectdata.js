@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $('#downloadresume').click(function (e) {
-        window.open('resume/Man_Mohan_Rathore_Resume.pdf');
+        window.open('resume/Man_Mohan_Rathore_Resumev1.pdf');
     });
 });
 
