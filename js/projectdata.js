@@ -9,7 +9,7 @@ const projects = [
     {
       name: 'Rolling Dice Game',
       type: 'javascript',
-      image:'images/portfolio/img10.jpg',
+      image:'images/portfolio/img1.jpg',
       gitlink: 'https://github.com/rathoremanmohan/rolling-dice-game',
       url: "https://rathoremanmohan.github.io/rolling-dice-game/"
     },
@@ -95,14 +95,14 @@ const projects = [
     {
         name: 'My Bank App',
         type: 'javascript',
-        image:'images/portfolio/img10.jpg',
+        image:'images/portfolio/img1.jpg',
         gitlink: 'https://github.com/rathoremanmohan/my-bank-app',
         url: "https://rathoremanmohan.github.io/my-bank-app/"
     },
     {
         name: 'Rolling Dice Game',
         type: 'javascript',
-        image:'images/portfolio/img10.jpg',
+        image:'images/portfolio/img1.jpg',
         gitlink: 'https://github.com/rathoremanmohan/rolling-dice-game',
         url: "https://rathoremanmohan.github.io/rolling-dice-game/"
     }

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58c74e4e-b914-4663-9612-e078e066ba1b" name="Default Changelist" comment="" />
+    <list default="true" id="58c74e4e-b914-4663-9612-e078e066ba1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/img1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/img10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/projectdata.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/projectdata.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ma18Gfd5ecpeQ4JUic80ECKcAx" />
@@ -71,7 +82,8 @@
       <workItem from="1611019830858" duration="3021000" />
       <workItem from="1611023573133" duration="14000" />
       <workItem from="1611023605036" duration="449000" />
-      <workItem from="1611076525116" duration="549000" />
+      <workItem from="1611076525116" duration="1241000" />
+      <workItem from="1611107290547" duration="3834000" />
     </task>
     <servers />
   </component>
